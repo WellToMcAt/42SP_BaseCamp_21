@@ -1,2 +1,2 @@
-# 42SP
-Códigos feitos durante o basecamp e se tudo der certo como cadete da 42SP
+# 42SP Basecamp
+Códigos feitos durante o basecamp de Abri/21 da 42SP
