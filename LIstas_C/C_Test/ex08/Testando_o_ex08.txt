@@ -1,0 +1,7 @@
+file -m ft_magic teste -> testa sem compilação
+#
+file -C -m ft_magic -> comando para gerar ft_magic.mgc 
+#
+file -m ft_magic.mgc teste -> testa com arq compilado
+
+end
